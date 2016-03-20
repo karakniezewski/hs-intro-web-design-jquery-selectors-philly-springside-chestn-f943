@@ -22,10 +22,10 @@ $(document).ready(function(){
   $('.box5').addClass('pinky')
 
   // 4.) Select the image of the cat that has the alt text equal to "cat sleeping"
-
+  $('img[alt="cat sleeping"]').addClass('pinky');
 
   // 5.) select only checked checkbox inputs and wrap them with a span that has the class of pinky using the wrap method.
-
+  $('<span value:"Car"</span>').addClass('pinky');
 
 
   // HINT: look at the documentation for:
